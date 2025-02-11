@@ -1,0 +1,3 @@
+[submodule "WrapFast"]
+	path = WrapFast
+	url = https://github.com/SoutheyAI/ios-bodyeditor.git

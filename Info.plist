@@ -1,0 +1,6 @@
+<key>NSUserTrackingUsageDescription</key>
+<string>请允许追踪权限以获得更好的个性化体验，我们会通过这些数据为您推荐更适合的内容</string>
+<key>NSCameraUsageDescription</key>
+<string>需要访问相机来拍摄参考图片</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>需要访问相册来选择参考图片</string> 
